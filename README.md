@@ -13,3 +13,7 @@ An interactive sales dashboard created using Microsoft Excel, providing visual a
 
 ##Screenshot
 ![image](https://github.com/Rahul-Patel321/Sales-Dashboard-Excel/assets/98198570/986a2486-1876-41a4-9d80-24dc894ce0f3)
+
+## Data
+
+Includes sample data with fields: Order Date,	Customer Name,	State, Category, Sub-Category, Product Name,	Sales,	Quantity,	Profit
